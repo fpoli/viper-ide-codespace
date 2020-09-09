@@ -20,7 +20,9 @@
 		"rust-lang.rust",
 		"bungcip.better-toml",
 		"vadimcn.vscode-lldb",
-		"mutantdino.resourcemonitor"
+		"mutantdino.resourcemonitor",
+		"viper-admin.viper",
+		"viper-admin.prusti-assistant"
 	]
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
